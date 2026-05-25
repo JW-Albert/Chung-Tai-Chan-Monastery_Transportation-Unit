@@ -114,4 +114,5 @@ ACTIVITY ──< CHECKPOINT ──< CAMERA ──< CAMERA_EVENT
 
 ## 相關文件
 
+- [技術選型](Tech.md)
 - [資料庫設計文件（ERD）](vehicle_management_erd.md)
